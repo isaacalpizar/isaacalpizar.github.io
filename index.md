@@ -18,6 +18,6 @@ Mi objetivo es crear experiencias de aprendizaje inclusivas y atractivas que emp
 
 ### Más información
 
-[Publicaciones](https://kbroman.org/tutorials)
-[Cursos](https://kbroman.org/github_tutorial),
+- [Publicaciones](https://kbroman.org/tutorials)
+- [Cursos](https://kbroman.org/github_tutorial)
 
