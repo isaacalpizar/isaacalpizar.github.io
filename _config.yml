@@ -12,7 +12,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Isaac Alpizar-Chacon"
 description              : &description "Assistant Professor in Computing Education"
-url                      : https://isaacalpizar.info/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://isaacalpizar.info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
