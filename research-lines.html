@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Research Lines</title>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: #eeeae4;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'DM Sans', sans-serif;
+    padding: 40px 20px;
+  }
+
+  .slide {
+    background: #faf9f6;
+    border-radius: 4px;
+    box-shadow: 0 8px 40px rgba(0,0,0,0.13), 0 2px 8px rgba(0,0,0,0.06);
+    padding: 52px 60px 56px;
+    max-width: 880px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .slide::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #4a7c59, #7bab8b, #c4d8c0);
+  }
+
+  h1 {
+    font-family: 'Source Serif 4', serif;
+    font-weight: 300;
+    font-size: 1.65rem;
+    color: #2d2d2d;
+    letter-spacing: -0.01em;
+    margin-bottom: 8px;
+    animation: fadeUp 0.4s ease both;
+  }
+
+  .divider {
+    height: 1px;
+    background: linear-gradient(90deg, #b0c4b1 0%, transparent 80%);
+    margin-bottom: 32px;
+  }
+
+  .banner {
+    background: #ddeadc;
+    border: 1.5px solid #b0c9ae;
+    border-radius: 3px;
+    text-align: center;
+    padding: 18px 24px;
+    margin-bottom: 16px;
+    animation: fadeUp 0.4s 0.1s ease both;
+    animation-fill-mode: both;
+  }
+
+  .banner-text {
+    font-family: 'Source Serif 4', serif;
+    font-size: 1.08rem;
+    font-weight: 400;
+    color: #2e4a32;
+    line-height: 1.55;
+  }
+
+  .areas-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr auto;
+    gap: 13px;
+    margin-bottom: 32px;
+    align-items: stretch;
+  }
+
+  .focus-box {
+    background: #f3f7f2;
+    border: 1.5px solid #b0c9ae;
+    border-radius: 3px;
+    text-align: center;
+    padding: 14px 12px;
+    animation: fadeUp 0.4s ease both;
+    animation-fill-mode: both;
+  }
+
+  .focus-box:nth-child(1) { animation-delay: 0.18s; }
+  .focus-box:nth-child(2) { animation-delay: 0.26s; }
+  .focus-box:nth-child(3) { animation-delay: 0.34s; }
+
+  .side-box {
+    background: #f9f7f3;
+    border: 1px dashed #d9c99a;
+    border-radius: 3px;
+    text-align: center;
+    padding: 10px 10px;
+    width: 90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    opacity: 0.75;
+    animation: fadeUp 0.4s 0.42s ease both;
+    animation-fill-mode: both;
+  }
+
+  .box-label {
+    font-size: 0.68rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    margin-bottom: 6px;
+  }
+
+  .focus-box .box-label { color: #4a7c59; }
+  .side-box .box-label  { color: #a08840; font-size: 0.6rem; }
+
+  .box-title {
+    font-size: 0.86rem;
+    line-height: 1.4;
+    font-weight: 400;
+  }
+
+  .focus-box .box-title { color: #2e4a32; }
+  .side-box .box-title  { color: #7a6535; font-size: 0.75rem; }
+
+  .side-note {
+    font-size: 0.72rem;
+    opacity: 0.65;
+    display: block;
+    margin-top: 3px;
+  }
+
+  .questions {
+    animation: fadeUp 0.4s 0.5s ease both;
+    animation-fill-mode: both;
+    text-align: center;
+  }
+
+  .questions-title {
+    font-weight: 500;
+    font-size: 0.88rem;
+    color: #2d2d2d;
+    margin-bottom: 16px;
+  }
+
+  .q-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px 36px;
+    text-align: left;
+  }
+
+  .q-item {
+    padding-left: 10px;
+    border-left: 2px solid #c4d8c0;
+  }
+
+  .q-main {
+    font-family: 'Source Serif 4', serif;
+    font-style: italic;
+    font-size: 0.85rem;
+    color: #2d2d2d;
+    margin-bottom: 3px;
+    line-height: 1.45;
+  }
+
+  .q-sub {
+    font-size: 0.75rem;
+    color: #888;
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(10px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+</style>
+</head>
+<body>
+<div class="slide">
+  <h1>Research lines</h1>
+  <div class="divider"></div>
+
+  <div class="banner">
+    <div class="banner-text">
+      Computational Thinking &amp; Generative AI<br>
+      in Computing Education
+    </div>
+  </div>
+
+  <div class="areas-row">
+    <div class="focus-box">
+      <div class="box-label">Focus area</div>
+      <div class="box-title">Problem-Solving<br>&amp; CT Skills</div>
+    </div>
+    <div class="focus-box">
+      <div class="box-label">Focus area</div>
+      <div class="box-title">GenAI Tools &amp; Perceptions</div>
+    </div>
+    <div class="focus-box">
+      <div class="box-label">Focus area</div>
+      <div class="box-title">Equity &amp; Access<br>in Latam CER</div>
+    </div>
+    <div class="side-box">
+      <div class="box-label">Side area</div>
+      <div class="box-title">AI in Education<span class="side-note">(broader)</span></div>
+    </div>
+  </div>
+
+  <div class="questions">
+    <div class="questions-title">Overarching questions:</div>
+    <div class="q-grid">
+      <div class="q-item">
+        <div class="q-main">How to support students in solving computational problems?</div>
+        <div class="q-sub">(CT skills, problem-solving strategies, tools)</div>
+      </div>
+      <div class="q-item">
+        <div class="q-main">What are the perceptions and use of GenAI among educators and students?</div>
+        <div class="q-sub">(across educational levels)</div>
+      </div>
+      <div class="q-item">
+        <div class="q-main">Can GenAI-powered tools support learning and teaching, and how?</div>
+        <div class="q-sub">(human-centered design, evidence-based practices)</div>
+      </div>
+      <div class="q-item">
+        <div class="q-main">What is the role of Latin America in CEd research and how to increase its participation?</div>
+        <div class="q-sub">(equity, global participation)</div>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
