@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-05-18'
 papers:
   nB8yiM0AAAAJ:-f6ydRqryjwC:
     citations: 16
@@ -53,6 +53,10 @@ papers:
     citations: 0
     title: Translating Smart Content for Learning Python through Human-AI Collaboration
     year: '2026'
+  nB8yiM0AAAAJ:O3NaXMp0MMsC:
+    citations: 0
+    title: A Common Framework for Automatically Assessing Computational Thinking Skills
+    year: '2025'
   nB8yiM0AAAAJ:QIV2ME_5wuYC:
     citations: 25
     title: 'Order out of chaos: Construction of knowledge models from pdf textbooks'
