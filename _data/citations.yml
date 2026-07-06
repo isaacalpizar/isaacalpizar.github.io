@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-29'
+  last_updated: '2026-07-06'
 papers:
   nB8yiM0AAAAJ:-f6ydRqryjwC:
     citations: 16
@@ -53,24 +53,32 @@ papers:
     citations: 0
     title: Translating Smart Content for Learning Python through Human-AI Collaboration
     year: '2026'
+  nB8yiM0AAAAJ:NaGl4SEjCO4C:
+    citations: 5
+    title: "Students\u2019 perceptions and use of generative AI tools for programming across different computing courses. arXiv"
+    year: '2024'
   nB8yiM0AAAAJ:O3NaXMp0MMsC:
     citations: 0
     title: A Common Framework for Automatically Assessing Computational Thinking Skills
     year: '2025'
   nB8yiM0AAAAJ:QIV2ME_5wuYC:
-    citations: 25
+    citations: 26
     title: 'Order out of chaos: Construction of knowledge models from pdf textbooks'
     year: '2020'
   nB8yiM0AAAAJ:R3hNpaxXUhUC:
     citations: 1
     title: Extraction of knowledge models from textbooks
     year: '2024'
+  nB8yiM0AAAAJ:RGFaLdJalmkC:
+    citations: 0
+    title: Experiencia en el uso de herramientas y procesos para mejorar la visibilidad de un repositorio institucional basado en DSpace
+    year: '2015'
   nB8yiM0AAAAJ:RHpTSmoSYBkC:
     citations: 1
     title: 'Harnessing textbooks for high-quality labeled data: An approach to automatic keyword extraction'
     year: '2023'
   nB8yiM0AAAAJ:TFP_iSt0sucC:
-    citations: 4
+    citations: 5
     title: A pedagogical framework for developing abstraction skills
     year: '2025'
   nB8yiM0AAAAJ:TQgYirikUcIC:
@@ -98,7 +106,7 @@ papers:
     title: 'Arquitectura de Alta Disponibilidad en DSpace: Repositorio TEC'
     year: '2015'
   nB8yiM0AAAAJ:_Qo2XoVZTnwC:
-    citations: 7
+    citations: 8
     title: Measuring the quality of domain models extracted from textbooks with learning curves analysis
     year: '2023'
   nB8yiM0AAAAJ:_kc_bZDykSQC:
@@ -107,14 +115,14 @@ papers:
     year: '2017'
   nB8yiM0AAAAJ:aqlVkmm33-oC:
     citations: 0
-    title: "Desaf\xEDos y Estrategias para Mantener un Repositorio Institucional Actualizado y Novedoso"
+    title: "Desaf\xEDos y estrategias para mantener un repositorio institucional actualizado y novedoso"
     year: Unknown Year
   nB8yiM0AAAAJ:bEWYMUwI8FkC:
-    citations: 58
+    citations: 63
     title: Students' Perceptions and use of generative AI tools for programming across different computing courses
     year: '2024'
   nB8yiM0AAAAJ:blknAaTinKkC:
-    citations: 3
+    citations: 5
     title: Excited, Skeptical, or Worried? A Multi-Institutional Study of Student Views on Generative AI in Computing Education
     year: '2025'
   nB8yiM0AAAAJ:d1gkVwhDpl0C:
@@ -122,7 +130,7 @@ papers:
     title: Semantic gap detection in Learning Object Metadata
     year: '2012'
   nB8yiM0AAAAJ:e5wmG9Sq2KIC:
-    citations: 5
+    citations: 6
     title: 'Enriching intelligent textbooks with interactivity: When smart content allocation goes wrong'
     year: '2022'
   nB8yiM0AAAAJ:hC7cP41nSMkC:
@@ -130,15 +138,15 @@ papers:
     title: Generation of assessment questions from textbooks enriched with knowledge models
     year: '2021'
   nB8yiM0AAAAJ:hFOr9nPyWt4C:
-    citations: 17
+    citations: 18
     title: Integrating textbooks with smart interactive content for learning programming
     year: '2021'
   nB8yiM0AAAAJ:iH-uZ7U-co4C:
-    citations: 0
+    citations: 1
     title: "La Inteligencia Artificial Generativa y c\xF3mo podemos abordarla en nuestra ense\xF1anza"
     year: '2024'
   nB8yiM0AAAAJ:isC4tDSrTZIC:
-    citations: 14
+    citations: 17
     title: Student's Use of Generative AI as a Support Tool in an Advanced Web Development Course
     year: '2025'
   nB8yiM0AAAAJ:j3f4tGmQtD8C:
@@ -161,6 +169,10 @@ papers:
     citations: 0
     title: 'Beyond" Just" Text: Can an AI-Generated Graphic Novel Enhance the Reading Experience of Non-Native English Readers?'
     year: '2025'
+  nB8yiM0AAAAJ:ns9cj8rnVeAC:
+    citations: 0
+    title: The Use of Computational Thinking Skills, Difficulties, and Strategies of Introductory Programming Students Solving Bebras Tasks
+    year: '2026'
   nB8yiM0AAAAJ:qxL8FJ1GzNcC:
     citations: 0
     title: OpenACS/dotLRN integration with ITCR platform
