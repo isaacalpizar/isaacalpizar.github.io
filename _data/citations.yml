@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-15'
 papers:
   nB8yiM0AAAAJ:-f6ydRqryjwC:
     citations: 16
@@ -41,6 +41,10 @@ papers:
     citations: 0
     title: Escenarios de aprendizaje para evaluaciones cortas
     year: '2025'
+  nB8yiM0AAAAJ:J_g5lzvAfSwC:
+    citations: 0
+    title: 'Intelligent Textbooks 2026: The Seventh International Workshop'
+    year: '2026'
   nB8yiM0AAAAJ:M3NEmzRMIkIC:
     citations: 1
     title: 'Mapping Latin American Research in Computing Education: Participation and Disparities'
@@ -78,7 +82,7 @@ papers:
     title: 'Harnessing textbooks for high-quality labeled data: An approach to automatic keyword extraction'
     year: '2023'
   nB8yiM0AAAAJ:TFP_iSt0sucC:
-    citations: 5
+    citations: 6
     title: A pedagogical framework for developing abstraction skills
     year: '2025'
   nB8yiM0AAAAJ:TQgYirikUcIC:
@@ -106,7 +110,7 @@ papers:
     title: 'Arquitectura de Alta Disponibilidad en DSpace: Repositorio TEC'
     year: '2015'
   nB8yiM0AAAAJ:_Qo2XoVZTnwC:
-    citations: 8
+    citations: 7
     title: Measuring the quality of domain models extracted from textbooks with learning curves analysis
     year: '2023'
   nB8yiM0AAAAJ:_kc_bZDykSQC:
@@ -118,11 +122,11 @@ papers:
     title: "Desaf\xEDos y estrategias para mantener un repositorio institucional actualizado y novedoso"
     year: Unknown Year
   nB8yiM0AAAAJ:bEWYMUwI8FkC:
-    citations: 63
+    citations: 65
     title: Students' Perceptions and use of generative AI tools for programming across different computing courses
     year: '2024'
   nB8yiM0AAAAJ:blknAaTinKkC:
-    citations: 5
+    citations: 6
     title: Excited, Skeptical, or Worried? A Multi-Institutional Study of Student Views on Generative AI in Computing Education
     year: '2025'
   nB8yiM0AAAAJ:d1gkVwhDpl0C:
@@ -130,7 +134,7 @@ papers:
     title: Semantic gap detection in Learning Object Metadata
     year: '2012'
   nB8yiM0AAAAJ:e5wmG9Sq2KIC:
-    citations: 6
+    citations: 7
     title: 'Enriching intelligent textbooks with interactivity: When smart content allocation goes wrong'
     year: '2022'
   nB8yiM0AAAAJ:hC7cP41nSMkC:
@@ -146,7 +150,7 @@ papers:
     title: "La Inteligencia Artificial Generativa y c\xF3mo podemos abordarla en nuestra ense\xF1anza"
     year: '2024'
   nB8yiM0AAAAJ:isC4tDSrTZIC:
-    citations: 17
+    citations: 18
     title: Student's Use of Generative AI as a Support Tool in an Advanced Web Development Course
     year: '2025'
   nB8yiM0AAAAJ:j3f4tGmQtD8C:
