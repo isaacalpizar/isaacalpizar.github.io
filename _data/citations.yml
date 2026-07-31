@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-07-31'
 papers:
   nB8yiM0AAAAJ:-f6ydRqryjwC:
     citations: 16
@@ -81,8 +81,12 @@ papers:
     citations: 1
     title: 'Harnessing textbooks for high-quality labeled data: An approach to automatic keyword extraction'
     year: '2023'
+  nB8yiM0AAAAJ:RYcK_YlVTxYC:
+    citations: 10
+    title: 'Intelligent Textbooks: The Sixth International Workshop'
+    year: '2025'
   nB8yiM0AAAAJ:TFP_iSt0sucC:
-    citations: 6
+    citations: 7
     title: A pedagogical framework for developing abstraction skills
     year: '2025'
   nB8yiM0AAAAJ:TQgYirikUcIC:
@@ -122,7 +126,7 @@ papers:
     title: "Desaf\xEDos y estrategias para mantener un repositorio institucional actualizado y novedoso"
     year: Unknown Year
   nB8yiM0AAAAJ:bEWYMUwI8FkC:
-    citations: 66
+    citations: 67
     title: Students' Perceptions and use of generative AI tools for programming across different computing courses
     year: '2024'
   nB8yiM0AAAAJ:blknAaTinKkC:
