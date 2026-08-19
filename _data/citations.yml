@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-19'
 papers:
   nB8yiM0AAAAJ:-f6ydRqryjwC:
-    citations: 16
+    citations: 15
     title: "What\u2019s in an index: Extracting domain-specific knowledge graphs from textbooks"
     year: '2022'
   nB8yiM0AAAAJ:0EnyYjriUFMC:
@@ -14,7 +14,7 @@ papers:
     title: EVALUATION AND DISSEMINATION OF EDUCATIONAL MATERIALS DEVELOPED BY TEACHERS AS OPEN EDUCATIONAL RESOURCES
     year: '2018'
   nB8yiM0AAAAJ:4JMBOYKVnBMC:
-    citations: 2
+    citations: 1
     title: "Extracci\xF3n de modelos de conocimiento a partir de libros de texto y su aplicaci\xF3n en los negocios"
     year: '2024'
   nB8yiM0AAAAJ:4TOpqqG69KYC:
@@ -22,11 +22,11 @@ papers:
     title: "Experiencia de fortalecimiento del RepositorioTEC: mejoras en el proceso de recolecci\xF3n de documentos para aumentar la visibilidad"
     year: '2017'
   nB8yiM0AAAAJ:7PzlFSSx8tAC:
-    citations: 28
+    citations: 30
     title: Knowledge models from PDF textbooks
     year: '2021'
   nB8yiM0AAAAJ:9ZlFYXVOiuMC:
-    citations: 13
+    citations: 14
     title: Transformation of PDF textbooks into intelligent educational resources
     year: '2020'
   nB8yiM0AAAAJ:BqipwSGYUEgC:
@@ -47,10 +47,10 @@ papers:
     year: '2026'
   nB8yiM0AAAAJ:M3NEmzRMIkIC:
     citations: 1
-    title: 'Mapping Latin American Research in Computing Education: Participation and Disparities'
+    title: 'Mapping latin american research in computing education: Participation and disparities'
     year: '2025'
   nB8yiM0AAAAJ:MXK_kJrjxJIC:
-    citations: 8
+    citations: 7
     title: Authenticity and versioning of learning objects using the digital signature infrastructure of Costa Rica
     year: '2016'
   nB8yiM0AAAAJ:NMxIlDl6LWMC:
@@ -58,15 +58,15 @@ papers:
     title: Translating Smart Content for Learning Python through Human-AI Collaboration
     year: '2026'
   nB8yiM0AAAAJ:NaGl4SEjCO4C:
-    citations: 5
-    title: "Students\u2019 perceptions and use of generative AI tools for programming across different computing courses. arXiv"
+    citations: 9
+    title: "Students\u2019 perceptions and use of generative AI tools for programming across different computing courses\u2019. arXiv (No. arXiv: 2410.06865)"
     year: '2024'
   nB8yiM0AAAAJ:O3NaXMp0MMsC:
-    citations: 0
+    citations: 1
     title: A Common Framework for Automatically Assessing Computational Thinking Skills
     year: '2025'
   nB8yiM0AAAAJ:QIV2ME_5wuYC:
-    citations: 26
+    citations: 27
     title: 'Order out of chaos: Construction of knowledge models from pdf textbooks'
     year: '2020'
   nB8yiM0AAAAJ:R3hNpaxXUhUC:
@@ -82,11 +82,11 @@ papers:
     title: 'Harnessing textbooks for high-quality labeled data: An approach to automatic keyword extraction'
     year: '2023'
   nB8yiM0AAAAJ:RYcK_YlVTxYC:
-    citations: 10
-    title: 'Intelligent Textbooks: The Sixth International Workshop'
-    year: '2025'
+    citations: 11
+    title: 'Intelligent textbooks: The fifth international workshop'
+    year: '2023'
   nB8yiM0AAAAJ:TFP_iSt0sucC:
-    citations: 7
+    citations: 8
     title: A pedagogical framework for developing abstraction skills
     year: '2025'
   nB8yiM0AAAAJ:TQgYirikUcIC:
@@ -98,11 +98,11 @@ papers:
     title: 'Experiencia en el uso de herramientas y procesos para mejorar la visibilidad de un repositorio institucional basado en DSpace: Repositorio TEC'
     year: '2015'
   nB8yiM0AAAAJ:UebtZRa9Y70C:
-    citations: 10
+    citations: 9
     title: OpenACS/dotLRN integration with ITCR platform
     year: '2009'
   nB8yiM0AAAAJ:Wp0gIr-vW9MC:
-    citations: 10
+    citations: 12
     title: 'Interlingua: Linking textbooks across different languages'
     year: '2019'
   nB8yiM0AAAAJ:YFjsv_pBGBYC:
@@ -126,12 +126,12 @@ papers:
     title: "Desaf\xEDos y estrategias para mantener un repositorio institucional actualizado y novedoso"
     year: Unknown Year
   nB8yiM0AAAAJ:bEWYMUwI8FkC:
-    citations: 67
+    citations: 74
     title: Students' Perceptions and use of generative AI tools for programming across different computing courses
     year: '2024'
   nB8yiM0AAAAJ:blknAaTinKkC:
-    citations: 6
-    title: Excited, Skeptical, or Worried? A Multi-Institutional Study of Student Views on Generative AI in Computing Education
+    citations: 8
+    title: Excited, skeptical, or worried? a multi-institutional study of student views on generative ai in computing education
     year: '2025'
   nB8yiM0AAAAJ:d1gkVwhDpl0C:
     citations: 0
@@ -146,11 +146,11 @@ papers:
     title: Generation of assessment questions from textbooks enriched with knowledge models
     year: '2021'
   nB8yiM0AAAAJ:hFOr9nPyWt4C:
-    citations: 18
+    citations: 20
     title: Integrating textbooks with smart interactive content for learning programming
     year: '2021'
   nB8yiM0AAAAJ:iH-uZ7U-co4C:
-    citations: 2
+    citations: 1
     title: "La Inteligencia Artificial Generativa y c\xF3mo podemos abordarla en nuestra ense\xF1anza"
     year: '2024'
   nB8yiM0AAAAJ:isC4tDSrTZIC:
@@ -165,6 +165,10 @@ papers:
     citations: 0
     title: "Perfil de aplicaci\xF3n de LOM en el TEC Digital"
     year: '2016'
+  nB8yiM0AAAAJ:lSLTfruPkqcC:
+    citations: 0
+    title: Towards a Code-Based Assessment of Computational Thinking Skills
+    year: '2026'
   nB8yiM0AAAAJ:mB3voiENLucC:
     citations: 0
     title: 'Arquitectura de Alta Disponibilidad en DSpace: Repositorio TEC'
@@ -178,7 +182,7 @@ papers:
     title: 'Beyond" Just" Text: Can an AI-Generated Graphic Novel Enhance the Reading Experience of Non-Native English Readers?'
     year: '2025'
   nB8yiM0AAAAJ:ns9cj8rnVeAC:
-    citations: 0
+    citations: 1
     title: The Use of Computational Thinking Skills, Difficulties, and Strategies of Introductory Programming Students Solving Bebras Tasks
     year: '2026'
   nB8yiM0AAAAJ:qxL8FJ1GzNcC:
@@ -193,3 +197,7 @@ papers:
     citations: 2
     title: Semantic gap detection in metadata of adaptive learning environments
     year: '2014'
+  nB8yiM0AAAAJ:vV6vV6tmYwMC:
+    citations: 0
+    title: 'Keyed Alike: Towards Versatile Domain-Specific Keyword Extraction with BERT'
+    year: Unknown Year
