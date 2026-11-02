@@ -13,6 +13,8 @@ nav_order: 4
 
 {% include bib_search.liquid %}
 
+<p>This page contains selected publications. For the full list, visit my <a href="https://scholar.google.nl/citations?user=nB8yiM0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>.</p>
+
 <div class="publications">
 
 {% bibliography --query @*[selected=true] %}
